@@ -5,6 +5,10 @@ Look no further — this is the app for you!
 
 There is a search feature that allows you to seamlessly add new books to your personal library.
 
+## DEMO
+
+![](src/myreads_demo.gif)
+
 ## Installation
 To begin using the app, clone the project and enter the following commands:
 
